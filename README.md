@@ -45,7 +45,7 @@ I’ve spent years talking about what software can do; now I’m under the hood 
 
 🤝 **Let's Connect!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fairuz-ibrahim-69365210)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fairuz-ibrahim-69365210)
 
 If you want to talk about RFPs, Neural Networks, or why my code works on my machine but nowhere else, feel free to reach out!
 
