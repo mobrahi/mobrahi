@@ -70,7 +70,6 @@ while learning:
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobrahi&layout=compact&theme=vision-pro" alt="Top Langs" /> </p>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mobrahi&show_icons=true&theme=vision-pro" alt="GitHub Stats" /> </p>
----
 
 ## 🕵️ Profile Recon
 ![Visitor Count](https://komarev.com/ghpvc/?username=mobrahi&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
